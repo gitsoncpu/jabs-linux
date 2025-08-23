@@ -2,10 +2,10 @@
 
 ## Misc tweaks, fixes
 
-### Chromium browser emojis 
+#### Chromium browser emojis 
 ```https://aur.archlinux.org/packages/noto-color-emoji-fontconfig```
 
-### Remove firewall-applet in /usr/bin/firewall-applet: 
+#### Remove firewall-applet in /usr/bin/firewall-applet: 
 
 ```
 #applet = TrayApplet()
