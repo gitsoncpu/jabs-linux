@@ -1,4 +1,4 @@
-# my-arch-gnome-stuff
+# my-gnome-stuff
 
 <p>https://extensions.gnome.org/extension/19/user-themes/</p>
 <p>https://extensions.gnome.org/extension/4356/top-bar-organizer/</p>
