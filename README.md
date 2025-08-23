@@ -1,7 +1,8 @@
 ## My GNOME 🐧
 
 
-<img width="2560" height="1440" alt="Screenshot From 2025-08-23 09-40-18" src="https://github.com/user-attachments/assets/5cf7060e-5d48-4d71-a4e4-c480710f2be3" />
+<img width="2560" height="1440" alt="Screenshot From 2025-08-23 09-40-18" src="https://github.com/user-attachments/assets/737f870a-30c7-4ce0-8982-15e24766140b" />
+
 
 
 #### * **User Themes**
