@@ -1,20 +1,13 @@
-## My GNOME 🐧
+# My GNOME 🐧
 
-## Misc tweaks, fixes
-
-#### Chromium browser emojis 
-```https://aur.archlinux.org/packages/noto-color-emoji-fontconfig```
-
-#### Remove firewall-applet in /usr/bin/firewall-applet
+## Marble Shell
+`https://github.com/imarkoff/Marble-shell-theme`
 
 ```
-#applet = TrayApplet()
-#applet.show()
-sys.exit(app.exec())
+cd Marble-shell-theme
+python install.py -ri -a --filled --launchpad -Pnp --opaque --hue 160
 ```
-
 ## Defaults
- * `https://github.com/imarkoff/Marble-shell-theme` - DE theme
  * `https://github.com/quantumfate/wofi` - wofi theme
  * `https://github.com/romkatv/powerlevel10k` - zsh level up
  * $terminal = kgx
@@ -53,6 +46,16 @@ sys.exit(app.exec())
 <img width="523" height="759" alt="untitled" src="https://github.com/user-attachments/assets/d0b1ceca-a714-4b8d-b153-c91c10734ef1" />
 
 
-   <img width="767" height="601" alt="Screenshot From 2025-08-23 10-40-53" src="https://github.com/user-attachments/assets/91a0003e-f630-4611-aa29-d6c8d31b1562" />
 
+## Misc tweaks, fixes
 
+#### Chromium browser emojis 
+```https://aur.archlinux.org/packages/noto-color-emoji-fontconfig```
+
+#### Remove firewall-applet in /usr/bin/firewall-applet
+
+```
+#applet = TrayApplet()
+#applet.show()
+sys.exit(app.exec())
+```
