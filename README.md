@@ -1,7 +1,8 @@
 ## My GNOME 🐧
 
 
-<img width="2560" height="1440" alt="Screenshot From 2025-08-23 09-40-18" src="https://github.com/user-attachments/assets/737f870a-30c7-4ce0-8982-15e24766140b" />
+
+<img width="2560" height="1440" alt="Screenshot From 2025-08-23 10-01-50" src="https://github.com/user-attachments/assets/47f126eb-4299-4271-936d-e72f474a2b46" />
 
 
 
