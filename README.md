@@ -6,7 +6,6 @@
 
 #### * **User Themes**
 
-    * Install and switch between different shell and icon themes.
 
     * `https://extensions.gnome.org/extension/19/user-themes/`
 
@@ -14,7 +13,7 @@
 
 #### * **Top Bar Organizer**
 
-    * Customizing and organizing the top bar.
+    * Customizing the top bar.
 
     * `https://extensions.gnome.org/extension/4356/top-bar-organizer/`
 
@@ -22,7 +21,7 @@
 
 #### * **AppIndicator Support**
 
-    * Enables support for application indicators in the top panel.
+    * Tray icons
 
     * `https://extensions.gnome.org/extension/615/appindicator-support/`
 
