@@ -4,7 +4,12 @@
 
 <img width="2560" height="1440" alt="Screenshot From 2025-08-23 10-01-50" src="https://github.com/user-attachments/assets/47f126eb-4299-4271-936d-e72f474a2b46" />
 
+### Defaults
+ * $terminal = kgx
+ * $browser = brave
+ * $shell = zsh
 
+### Extensions
 
 #### * **User Themes**
 
@@ -15,15 +20,12 @@
 
 #### * **Top Bar Organizer**
 
-    * Customizing the top bar.
-
     * `https://extensions.gnome.org/extension/4356/top-bar-organizer/`
 
 
 
-#### * **AppIndicator Support**
+#### * **AppIndicator Support - tray icons**
 
-    * Tray icons
 
     * `https://extensions.gnome.org/extension/615/appindicator-support/`
 
@@ -44,3 +46,4 @@
 #### * **Marble Shell**
 
     * `https://github.com/imarkoff/Marble-shell-theme`
+
