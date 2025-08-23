@@ -13,7 +13,7 @@
  * `https://github.com/romkatv/powerlevel10k` - zsh level up
  * $terminal = kgx
  * $browser = brave
- * IPV6 DHCP ONLY
+ * IPV6 DHCP only
 
 
 ### Extensions
