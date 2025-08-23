@@ -3,6 +3,8 @@
 
 
 <img width="2560" height="1440" alt="Screenshot From 2025-08-23 10-01-50" src="https://github.com/user-attachments/assets/47f126eb-4299-4271-936d-e72f474a2b46" />
+<img width="1600" height="900" alt="Screenshot From 2025-08-23 10-13-51" src="https://github.com/user-attachments/assets/20ccd508-2d71-4b82-a185-152cdf7cb8d3" />
+
 
 ### Defaults
  * `https://github.com/imarkoff/Marble-shell-theme` - DE theme
