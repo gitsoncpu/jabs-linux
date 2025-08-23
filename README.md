@@ -4,10 +4,13 @@
 
 <img width="2560" height="1440" alt="Screenshot From 2025-08-23 10-01-50" src="https://github.com/user-attachments/assets/47f126eb-4299-4271-936d-e72f474a2b46" />
 
+## Fixes
+
+Chromium browser emojis 
+>`https://aur.archlinux.org/packages/noto-color-emoji-fontconfig`
 
 
-
-### Defaults
+## Defaults
  * `https://github.com/imarkoff/Marble-shell-theme` - DE theme
  * `https://github.com/quantumfate/wofi` - wofi theme
  * `https://github.com/romkatv/powerlevel10k` - zsh level up
@@ -16,7 +19,7 @@
  * IPV6 DHCP only
 
 
-### Extensions
+## Extensions
 
 #### **User Themes** 
 
@@ -41,6 +44,8 @@
 #### **Brightness Control Tray** 
 
 > `https://extensions.gnome.org/extension/2645/brightness-control-using-ddcutil/`
+
+
 
 <img width="523" height="759" alt="untitled" src="https://github.com/user-attachments/assets/d0b1ceca-a714-4b8d-b153-c91c10734ef1" />
 
