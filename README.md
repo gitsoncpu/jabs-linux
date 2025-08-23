@@ -13,6 +13,7 @@
  * $terminal = kgx
  * $browser = brave
  * $shell = zsh
+ * IPV6 DHCP ONLY
 
 
 ### Extensions
