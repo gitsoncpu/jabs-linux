@@ -4,11 +4,18 @@
 
 <img width="2560" height="1440" alt="Screenshot From 2025-08-23 10-01-50" src="https://github.com/user-attachments/assets/47f126eb-4299-4271-936d-e72f474a2b46" />
 
-## Fixes
+## Misc tweaks, fixes
 
-Chromium browser emojis 
->`https://aur.archlinux.org/packages/noto-color-emoji-fontconfig`
+### Chromium browser emojis 
+```https://aur.archlinux.org/packages/noto-color-emoji-fontconfig```
 
+### Remove firewall-applet in /usr/bin/firewall-applet at the end of file, comment out: 
+
+```
+#applet = TrayApplet()
+#applet.show()
+sys.exit(app.exec())
+```
 
 ## Defaults
  * `https://github.com/imarkoff/Marble-shell-theme` - DE theme
