@@ -10,6 +10,7 @@
 ### Defaults
  * `https://github.com/imarkoff/Marble-shell-theme` - DE theme
  * `https://github.com/quantumfate/wofi` - wofi theme
+ * `https://github.com/romkatv/powerlevel10k` - zsh level up
  * $terminal = kgx
  * $browser = brave
  * $shell = zsh
