@@ -2,7 +2,7 @@
 
 <img width="2560" height="1440" alt="Screenshot From 2025-08-23 08-46-28" src="https://github.com/user-attachments/assets/b9375e55-f404-4fb0-9f49-de63f78923d0" />
 
-themes
+<p>themes<p>
 <p>https://extensions.gnome.org/extension/19/user-themes/</p>
 top bar customizer
 <p>https://extensions.gnome.org/extension/4356/top-bar-organizer/</p>
