@@ -4,7 +4,7 @@
 
 <img width="2560" height="1440" alt="Screenshot From 2025-08-23 10-01-50" src="https://github.com/user-attachments/assets/47f126eb-4299-4271-936d-e72f474a2b46" />
 
-<img width="745" height="547" alt="Screenshot From 2025-08-23 10-39-30" src="https://github.com/user-attachments/assets/ca711bd7-891a-4463-83eb-3458a0a4423b" />
+<img width="367" height="351" alt="Screenshot From 2025-08-23 10-40-53" src="https://github.com/user-attachments/assets/225aa4ed-b9a2-4d09-87cb-9d1f5e23d059" />
 
 
 ### Defaults
