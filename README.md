@@ -7,6 +7,7 @@
 <p>https://extensions.gnome.org/extension/4356/top-bar-organizer/</p>
 <p>https://extensions.gnome.org/extension/615/appindicator-support/</p>
 <p>https://extensions.gnome.org/extension/307/dash-to-dock/</p>
+<p>https://extensions.gnome.org/extension/2645/brightness-control-using-ddcutil/</p>
 https://github.com/imarkoff/Marble-shell-theme
 
 # Defaults
