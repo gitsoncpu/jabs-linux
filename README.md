@@ -8,7 +8,7 @@
 
     * Install and switch between different shell and icon themes.
 
-    * **Link:** `https://extensions.gnome.org/extension/19/user-themes/`
+    * `https://extensions.gnome.org/extension/19/user-themes/`
 
 
 
@@ -16,7 +16,7 @@
 
     * Customizing and organizing the top bar.
 
-    * **Link:** `https://extensions.gnome.org/extension/4356/top-bar-organizer/`
+    * `https://extensions.gnome.org/extension/4356/top-bar-organizer/`
 
 
 
@@ -24,22 +24,22 @@
 
     * Enables support for application indicators in the top panel.
 
-    * **Link:** `https://extensions.gnome.org/extension/615/appindicator-support/`
+    * `https://extensions.gnome.org/extension/615/appindicator-support/`
 
 
 
 #### * **Dash to Dock**
 
-    * **Link:** `https://extensions.gnome.org/extension/307/dash-to-dock/`
+    * `https://extensions.gnome.org/extension/307/dash-to-dock/`
 
 
 
 #### * **Brightness Control Using ddcutil**
 
-    * **Link:** `https://extensions.gnome.org/extension/2645/brightness-control-using-ddcutil/`
+    * `https://extensions.gnome.org/extension/2645/brightness-control-using-ddcutil/`
 
 
 
 #### * **Marble Shell**
 
-    * **Link:** `https://github.com/imarkoff/Marble-shell-theme`
+    * `https://github.com/imarkoff/Marble-shell-theme`
