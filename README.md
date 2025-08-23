@@ -5,8 +5,8 @@
 <img width="2560" height="1440" alt="Screenshot From 2025-08-23 10-01-50" src="https://github.com/user-attachments/assets/47f126eb-4299-4271-936d-e72f474a2b46" />
 
 ### Defaults
- * DE theme `https://github.com/imarkoff/Marble-shell-theme`
- * wofi theme `https://github.com/quantumfate/wofi`
+ * `https://github.com/imarkoff/Marble-shell-theme` - DE theme
+ * `https://github.com/quantumfate/wofi` - wofi theme
  * $terminal = kgx
  * $browser = brave
  * $shell = zsh
