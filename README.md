@@ -38,7 +38,7 @@
 `https://extensions.gnome.org/extension/307/dash-to-dock/`
 
 
-#### **Brightness Control Using ddcutil** 
+#### **Brightness Control Tray** 
 
 `https://extensions.gnome.org/extension/2645/brightness-control-using-ddcutil/`
 
