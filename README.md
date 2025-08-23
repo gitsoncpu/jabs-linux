@@ -1,2 +1,3 @@
 # my-arch-gnome-stuff
-marble shell, dash to dock and tray.
+[marble shell](https://github.com/imarkoff/Marble-shell-theme),
+dash to dock and tray.
