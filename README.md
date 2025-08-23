@@ -9,7 +9,7 @@
 ### Chromium browser emojis 
 ```https://aur.archlinux.org/packages/noto-color-emoji-fontconfig```
 
-### Remove firewall-applet in /usr/bin/firewall-applet at the end of file, comment out: 
+### Remove firewall-applet in /usr/bin/firewall-applet: 
 
 ```
 #applet = TrayApplet()
