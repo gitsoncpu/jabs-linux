@@ -55,7 +55,9 @@ python install.py -ri -a --filled --launchpad -Pnp --opaque --hue 160
 ## Misc, tweaks, fixes
 
 * `https://github.com/quantumfate/wofi` - wofi theme
-
+  
+#### Browser Startpage/New Tab
+```https://gitlab.com/fazzi/startpage```
   
 #### Chromium browser emojis 
 ```https://aur.archlinux.org/packages/noto-color-emoji-fontconfig```
