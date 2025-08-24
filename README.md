@@ -1,6 +1,6 @@
-# 2025 Linux stuff 👹              
+# 2025 👹 My Linux stuff               
 
-#### 6/28 - 8/1
+#### 6/28 - 8/4
 > Void + XFCE, Sway, Hyprland
 
 #### 8/4 - 8/21
@@ -11,7 +11,7 @@
 
 
    
-## Marble Shell
+## ⚪ Marble Shell
 `https://github.com/imarkoff/Marble-shell-theme`
    
 ```
@@ -22,7 +22,7 @@ python install.py -ri -a --filled --launchpad -Pnp --opaque --hue 160
 
 
 
-## Extensions
+## 🔌 Extensions
 
 #### **User Themes** 
 
