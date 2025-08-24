@@ -40,15 +40,14 @@ python install.py -ri -a --filled --launchpad -Pnp --opaque --hue 160
 
 ## 💿 Misc
 
-#### Wofi Theme
-```https://github.com/quantumfate/wofi```  
+#### Wofi Theme - https://github.com/quantumfate/wofi  
   
-#### Browser Startpage/New Tab
-```https://gitlab.com/fazzi/startpage```
+#### Browser Startpage/New Tab - https://gitlab.com/fazzi/startpage
   
-#### Chromium browser emojis 
-```https://aur.archlinux.org/packages/noto-color-emoji-fontconfig```
+#### Chromium browser emojis - https://aur.archlinux.org/packages/noto-color-emoji-fontconfig
+
 ####  * IPV6 DHCP only
+
 #### Remove firewall-applet in /usr/bin/firewall-applet
 
 ```
