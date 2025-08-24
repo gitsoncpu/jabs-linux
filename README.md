@@ -20,7 +20,9 @@ python install.py -ri -a --filled --launchpad -Pnp --opaque --hue 160
 ```
 <img width="798" height="595" alt="Screenshot From 2025-08-24 08-42-44" src="https://github.com/user-attachments/assets/a6b66cd2-34d4-4bff-ae7f-b9544bc97d6c" />
 
-<img width="2560" height="1440" alt="Screenshot From 2025-08-23 20-00-39" src="https://github.com/user-attachments/assets/12c20366-d85e-4ae9-b6e2-4bfb3ff2b132" />
+
+
+<img width="2560" height="1440" alt="Screenshot From 2025-08-24 10-22-00" src="https://github.com/user-attachments/assets/f895090a-4ca2-4610-af84-dbedc0af683f" />
 
 
 
