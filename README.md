@@ -1,13 +1,13 @@
 # 2025 👹 My Linux stuff               
 
-#### 6/28 - 8/4
-> Void + XFCE, Sway, Hyprland
+### 6/28 - 8/4
+##### Void + XFCE, Sway, Hyprland
 
-#### 8/4 - 8/21
-> Cachy + Hyprperks DE
+### 8/4 - 8/21
+##### Cachy + Hyprperks DE
 
-#### 8/21 -
-> Endeavour + GNOME
+### 8/21 -
+##### Endeavour + GNOME
 
 
    
