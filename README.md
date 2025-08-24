@@ -1,4 +1,9 @@
-# My GNOME 🐧
+# 2025  👹              
+#### 8/4 - 8/21
+> Cachy + Hyprperks DE
+
+#### 8/21 -
+> Endeavour + GNOME
 
 ## Marble Shell
 `https://github.com/imarkoff/Marble-shell-theme`
@@ -13,6 +18,8 @@ python install.py -ri -a --filled --launchpad -Pnp --opaque --hue 160
  * $terminal = kgx
  * $browser = brave
  * IPV6 DHCP only
+
+![68747470733a2f2f696d6775722e636f6d2f39374b525a4372682e6a7067](https://github.com/user-attachments/assets/558b9ba8-56af-4191-b6f9-749dd5460873)
 
 
 ## Extensions
