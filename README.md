@@ -54,7 +54,8 @@ python install.py -ri -a --filled --launchpad -Pnp --opaque --hue 160
 
 ## 💿 Misc, tweaks, fixes
 
-* `https://github.com/quantumfate/wofi` - wofi theme
+#### Wofi Theme
+```https://github.com/quantumfate/wofi```  
   
 #### Browser Startpage/New Tab
 ```https://gitlab.com/fazzi/startpage```
