@@ -1,4 +1,4 @@
-# 2025  👹             
+# 2025 👹             
 
 ### 6/28 - 8/4
 ###### Void + XFCE, Sway, Hyprland
@@ -38,7 +38,7 @@ python install.py -ri -a --filled --launchpad -Pnp --opaque --hue 160
  
 
 
-## 💿 Misc
+## 👾 Misc
 
 #### Wofi Theme - https://github.com/quantumfate/wofi  
   
