@@ -14,8 +14,8 @@
 cd Marble-shell-theme
 python install.py -ri -a --filled --launchpad -Pnp --opaque --hue 160
 ```
+<img width="2560" height="1440" alt="Screenshot From 2025-08-23 20-00-39" src="https://github.com/user-attachments/assets/12c20366-d85e-4ae9-b6e2-4bfb3ff2b132" />
 
-<img width="2560" height="1440" alt="Screenshot From 2025-08-23 18-59-06" src="https://github.com/user-attachments/assets/54322717-f2ec-49ac-aded-6e3b8eaec03b" />
 
 
 ## Extensions
