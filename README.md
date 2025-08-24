@@ -1,4 +1,8 @@
 # 2025 Linux stuff 👹              
+
+#### 6/28 - 8/1
+> Void + XFCE, Sway, Hyprland
+
 #### 8/4 - 8/21
 > Cachy + Hyprperks DE
 
