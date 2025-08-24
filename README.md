@@ -52,7 +52,7 @@ python install.py -ri -a --filled --launchpad -Pnp --opaque --hue 160
 > `https://extensions.gnome.org/extension/2645/brightness-control-using-ddcutil/`
 
 
-## Misc, tweaks, fixes
+## 💿 Misc, tweaks, fixes
 
 * `https://github.com/quantumfate/wofi` - wofi theme
   
