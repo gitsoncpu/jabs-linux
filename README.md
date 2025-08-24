@@ -11,8 +11,7 @@
 
 
    
-## ⚪ Marble Shell
-`https://github.com/imarkoff/Marble-shell-theme`
+## ⚪ Marble Shell - https://github.com/imarkoff/Marble-shell-theme
    
 ```
 cd Marble-shell-theme
@@ -27,29 +26,16 @@ python install.py -ri -a --filled --launchpad -Pnp --opaque --hue 160
 
 ## 🔌 Extensions
 
-#### **User Themes** 
+#### **User Themes** - https://extensions.gnome.org/extension/19/user-themes/
 
-> ```https://extensions.gnome.org/extension/19/user-themes/```
+#### **Top Bar Organizer** - https://extensions.gnome.org/extension/4356/top-bar-organizer/
 
+#### **AppIndicator Support - tray icons** - https://extensions.gnome.org/extension/615/appindicator-support/
 
-#### **Top Bar Organizer** 
+#### **Dash to Dock** - https://extensions.gnome.org/extension/307/dash-to-dock/
 
-> ```https://extensions.gnome.org/extension/4356/top-bar-organizer/```
-
-
-#### **AppIndicator Support - tray icons** 
-
-> ```https://extensions.gnome.org/extension/615/appindicator-support/```
-
-
-#### **Dash to Dock** 
-
-> ```https://extensions.gnome.org/extension/307/dash-to-dock/```
-
-
-#### **Brightness Control Tray** 
-
-> `https://extensions.gnome.org/extension/2645/brightness-control-using-ddcutil/`
+#### **Brightness Control Tray** - https://extensions.gnome.org/extension/2645/brightness-control-using-ddcutil/
+ 
 
 
 ## 💿 Misc
