@@ -5,21 +5,17 @@
 #### 8/21 -
 > Endeavour + GNOME
 
-## Defaults
- * `https://github.com/quantumfate/wofi` - wofi theme
- * `https://github.com/romkatv/powerlevel10k` - zsh level up
- * $terminal = kgx
- * $browser = brave
- * IPV6 DHCP only
+
    
 ## Marble Shell
 `https://github.com/imarkoff/Marble-shell-theme`
-
+   
 ```
 cd Marble-shell-theme
 python install.py -ri -a --filled --launchpad -Pnp --opaque --hue 160
 ```
 
+<img width="2560" height="1440" alt="Screenshot From 2025-08-23 18-59-06" src="https://github.com/user-attachments/assets/54322717-f2ec-49ac-aded-6e3b8eaec03b" />
 
 
 ## Extensions
@@ -49,11 +45,14 @@ python install.py -ri -a --filled --launchpad -Pnp --opaque --hue 160
 > `https://extensions.gnome.org/extension/2645/brightness-control-using-ddcutil/`
 
 
-## Misc tweaks, fixes
+## Misc, tweaks, fixes
 
+* `https://github.com/quantumfate/wofi` - wofi theme
+
+  
 #### Chromium browser emojis 
 ```https://aur.archlinux.org/packages/noto-color-emoji-fontconfig```
-
+####  * IPV6 DHCP only
 #### Remove firewall-applet in /usr/bin/firewall-applet
 
 ```
