@@ -1,4 +1,4 @@
-# 2025  My stuff  👹             
+# 2025  👹             
 
 ### 6/28 - 8/4
 ###### Void + XFCE, Sway, Hyprland
