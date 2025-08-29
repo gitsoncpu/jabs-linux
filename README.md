@@ -1,13 +1,5 @@
 # 2025 👹             
 
-### 6/28 - 8/4
-###### Void + XFCE, Sway, Hyprland
-
-### 8/4 - 8/21
-###### Cachy + Hyprperks DE
-
-### 8/21 -
-###### Endeavour + GNOME
 
 
    
