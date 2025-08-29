@@ -11,9 +11,7 @@ python install.py -ri -a --filled --launchpad -Pnp --opaque --hue 160
 ```
 <img width="798" height="595" alt="Screenshot From 2025-08-24 08-42-44" src="https://github.com/user-attachments/assets/a6b66cd2-34d4-4bff-ae7f-b9544bc97d6c" />
 
-
-<img width="2560" height="1440" alt="Screenshot From 2025-08-24 10-23-43" src="https://github.com/user-attachments/assets/054639d2-8b17-45b4-84b6-371869ecfdae" />
-
+<img width="2560" height="1440" alt="Screenshot From 2025-08-29 12-24-12" src="https://github.com/user-attachments/assets/b6ddf68f-95a8-4672-8e48-8939a988a9fc" />
 
 
 ## 🔌 Extensions
