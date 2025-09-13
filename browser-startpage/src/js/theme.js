@@ -3,7 +3,7 @@ let currentIndex =
   document.currentScript.getAttribute("currentIndex");
 currentIndex = parseInt(currentIndex);
 
-const images = ["cover1.webp", "cover2.webp", "cover3.webp", "cover4.webp"];
+const images = ["pharosia.jpg", "dark_pharosia.png", "pirate.jpg", "beach.jpg"];
 const colorSets = [
   {
     "--text-color": "#c0caf5",
@@ -27,10 +27,10 @@ const colorSets = [
     "--background-color": "#1a1b26",
   },
   {
-    "--text-color": "#EAEFFD",
+    "--text-color": "#f9ebd3",
     "--hover-color": "#FDB6A7",
-    "--accent-color": "#556BFF",
-		"--accent-color-2": "#FA87A6",
+    "--accent-color": "#de9a21",
+		"--accent-color-2": "#f9ebd3",
     "--background-color": "#16191F",
   },
 ];
