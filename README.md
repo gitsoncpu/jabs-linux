@@ -36,6 +36,8 @@ python install.py -ri -a --filled --launchpad -Pnp --opaque --hue 160
   
 #### Chromium browser emojis - https://aur.archlinux.org/packages/noto-color-emoji-fontconfig
 
+#### /etc/passwd to change shell if password issue
+
 ####  * IPV6 DHCP only
 
 #### Remove firewall-applet in /usr/bin/firewall-applet
