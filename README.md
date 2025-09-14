@@ -10,7 +10,7 @@
 git clone https://github.com/imarkoff/Marble-shell-theme.git
 cd Marble-shell-theme
 python install.py -ri -a --filled --launchpad -Pnp --opaque --hue 250 --sat 250
-sudo python install.py --gdm --blue --filled --gdm-image PATHTOIMAGE.png --gdm-blur=40 --gdm-darken=30
+sudo python install.py --gdm --blue --filled --gdm-image PATHTOIMAGE --gdm-blur=40 --gdm-darken=30
 ```
 
 <img width="1535" height="864" alt="Screenshot From 2025-09-14 13-22-48" src="https://github.com/user-attachments/assets/5eab6f2a-0820-4390-95e2-288e155669bd" />
