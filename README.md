@@ -30,6 +30,8 @@ sudo python install.py --gdm --blue --filled --gdm-image /home/jason/Pictures/Wa
 
 ## 👾 Misc
 
+#### Starship https://starship.rs/
+
 #### Wofi Theme - https://github.com/quantumfate/wofi  
   
 #### Browser Startpage/New Tab - https://gitlab.com/fazzi/startpage
