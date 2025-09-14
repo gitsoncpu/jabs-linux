@@ -12,8 +12,8 @@ cd Marble-shell-theme
 python install.py -ri -a --filled --launchpad -Pnp --opaque --hue 250 --sat 250
 sudo python install.py --gdm --blue --filled --gdm-image PATHTOIMAGE --gdm-blur=40 --gdm-darken=30
 ```
+<img width="1535" height="864" alt="Screenshot From 2025-09-14 13-52-17" src="https://github.com/user-attachments/assets/e8187494-b268-4afe-8880-bd1e32cc9607" />
 
-<img width="1535" height="864" alt="Screenshot From 2025-09-14 13-22-48" src="https://github.com/user-attachments/assets/5eab6f2a-0820-4390-95e2-288e155669bd" />
 <img width="846" height="611" alt="Screenshot From 2025-09-14 13-24-21" src="https://github.com/user-attachments/assets/6080107d-52e0-4ab2-8476-d12f75cd83e1" />
 
 ### 🔌 Extensions
