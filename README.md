@@ -34,6 +34,8 @@ sudo python install.py --gdm --blue --filled --gdm-image PATHTOIMAGE --gdm-blur=
 
 ### 👾 Misc
 
+##### Firefox Theme https://addons.mozilla.org/en-US/firefox/addon/pixel-storm-in-green-and-pink/
+
 ##### Starship https://starship.rs/
 
 ##### Wofi Theme - https://github.com/quantumfate/wofi  
