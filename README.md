@@ -7,7 +7,7 @@
    
 ```
 cd Marble-shell-theme
-python install.py -ri -a --filled --launchpad -Pnp --opaque --hue 160
+python install.py -ri -a --filled --launchpad -Pnp --opaque --hue 250 --sat 250
 sudo python install.py --gdm --blue --filled --gdm-image /home/jason/Pictures/Wallpapers/space_blurp.png --gdm-blur=40 --gdm-darken=30
 ```
 <img width="2560" height="1440" alt="Screenshot From 2025-09-14 11-08-51" src="https://github.com/user-attachments/assets/dc4e8816-f25d-435c-846b-bab776b53ff2" />
