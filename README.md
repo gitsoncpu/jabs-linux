@@ -12,8 +12,8 @@ cd Marble-shell-theme
 python install.py -ri -a --filled --launchpad -Pnp --opaque --hue 250 --sat 250
 sudo python install.py --gdm --blue --filled --gdm-image /home/jason/Pictures/Wallpapers/space_blurp.png --gdm-blur=40 --gdm-darken=30
 ```
-<img width="1535" height="864" alt="Screenshot From 2025-09-14 11-15-49" src="https://github.com/user-attachments/assets/1dd1a0e4-6743-40d6-b5ce-e24bed87224a" />
 
+<img width="1535" height="864" alt="Screenshot From 2025-09-14 13-22-48" src="https://github.com/user-attachments/assets/5eab6f2a-0820-4390-95e2-288e155669bd" />
 
 ## 🔌 Extensions
 
