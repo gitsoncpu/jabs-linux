@@ -8,12 +8,6 @@
   },
   "modules": [
     {
-      "type": "command",
-      "key": "  ",
-      "keyColor": "#CC7A78",
-      "text": "splash=$(hyprctl splash);echo $splash"
-    },
-    {
       "type": "custom",
       "format": "┌──────────────────────────────────────────┐"
     },
