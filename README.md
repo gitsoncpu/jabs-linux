@@ -19,7 +19,7 @@ sudo python install.py --gdm --blue --filled --gdm-image /home/jason/Pictures/Wa
 
 #### **Dash to Dock** - https://extensions.gnome.org/extension/307/dash-to-dock/
 
-#### **Brightness Control Tray** - https://extensions.gnome.org/extension/2645/brightness-control-using-ddcutil/ (GNOME 49 should have this feature)
+#### **Brightness Control Tray** - https://extensions.gnome.org/extension/2645/brightness-control-using-ddcutil/  ``` (GNOME 49 should have this feature) ``` 
 
 #### **AppIndicator Support - tray icons** - https://extensions.gnome.org/extension/615/appindicator-support/ 
 
