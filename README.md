@@ -14,6 +14,7 @@ sudo python install.py --gdm --blue --filled --gdm-image /home/jason/Pictures/Wa
 ```
 
 <img width="1535" height="864" alt="Screenshot From 2025-09-14 13-22-48" src="https://github.com/user-attachments/assets/5eab6f2a-0820-4390-95e2-288e155669bd" />
+<img width="846" height="611" alt="Screenshot From 2025-09-14 13-24-21" src="https://github.com/user-attachments/assets/6080107d-52e0-4ab2-8476-d12f75cd83e1" />
 
 ## 🔌 Extensions
 
