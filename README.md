@@ -13,7 +13,9 @@ python install.py -ri -a --filled --launchpad -Pnp --opaque --hue 155 --sat 250
 sudo python install.py --gdm --blue --filled --gdm-image PATHTOIMAGE --gdm-blur=40 --gdm-darken=30
 ```
 
-<img width="1535" height="864" alt="Screenshot From 2025-09-14 14-32-26" src="https://github.com/user-attachments/assets/64b8d95c-c90a-4990-8be8-7bde8a2d3f8e" />
+
+<img width="1535" height="864" alt="Screenshot From 2025-09-14 15-15-49" src="https://github.com/user-attachments/assets/8b49eafc-67eb-44aa-986e-d4cbdb46fd99" />
+
 <img width="846" height="611" alt="Screenshot From 2025-09-14 14-32-32" src="https://github.com/user-attachments/assets/76210592-5e1f-4136-a2f4-beef15c20eb4" />
 
 
