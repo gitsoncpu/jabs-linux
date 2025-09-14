@@ -9,14 +9,13 @@
 ```
 git clone https://github.com/imarkoff/Marble-shell-theme.git
 cd Marble-shell-theme
-python install.py -ri -a --filled --launchpad -Pnp --opaque --hue 250 --sat 250
+python install.py -ri -a --filled --launchpad -Pnp --opaque --hue 155 --sat 250
 sudo python install.py --gdm --blue --filled --gdm-image PATHTOIMAGE --gdm-blur=40 --gdm-darken=30
 ```
 
-<img width="1535" height="864" alt="Screenshot From 2025-09-14 14-14-09" src="https://github.com/user-attachments/assets/c3eef240-e0fb-4122-b03b-472917829b3b" />
+<img width="1535" height="864" alt="Screenshot From 2025-09-14 14-24-18" src="https://github.com/user-attachments/assets/c4d6b565-1cfa-40bc-8af6-7a9ff623ea79" />
 
-<img width="846" height="594" alt="Screenshot From 2025-09-14 14-13-41" src="https://github.com/user-attachments/assets/cbbb3906-6d8c-424f-b6ad-258e7c71cdf7" />
-
+<img width="846" height="611" alt="Screenshot From 2025-09-14 14-25-34" src="https://github.com/user-attachments/assets/9884f34f-b749-4f9f-963e-687848c632ec" />
 
 ### 🔌 Extensions
 
