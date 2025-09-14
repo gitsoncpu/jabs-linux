@@ -7,6 +7,7 @@
 ##### https://github.com/imarkoff/Marble-shell-theme
    
 ```
+git clone https://github.com/imarkoff/Marble-shell-theme.git
 cd Marble-shell-theme
 python install.py -ri -a --filled --launchpad -Pnp --opaque --hue 250 --sat 250
 sudo python install.py --gdm --blue --filled --gdm-image /home/jason/Pictures/Wallpapers/space_blurp.png --gdm-blur=40 --gdm-darken=30
