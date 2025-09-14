@@ -18,32 +18,32 @@ sudo python install.py --gdm --blue --filled --gdm-image /home/jason/Pictures/Wa
 
 ## 🔌 Extensions
 
-#### **User Themes** - https://extensions.gnome.org/extension/19/user-themes/
+##### **User Themes** - https://extensions.gnome.org/extension/19/user-themes/
 
-#### **Dash to Dock** - https://extensions.gnome.org/extension/307/dash-to-dock/
+##### **Dash to Dock** - https://extensions.gnome.org/extension/307/dash-to-dock/
 
-#### **Brightness Control Tray** - https://extensions.gnome.org/extension/2645/brightness-control-using-ddcutil/  ``` (GNOME 49 should have this) ``` 
+##### **Brightness Control Tray** - https://extensions.gnome.org/extension/2645/brightness-control-using-ddcutil/  ``` (GNOME 49 should have this) ``` 
 
-#### **AppIndicator Support - tray icons** - https://extensions.gnome.org/extension/615/appindicator-support/ 
+##### **AppIndicator Support - tray icons** - https://extensions.gnome.org/extension/615/appindicator-support/ 
 
-#### **Top Bar Organizer** - https://extensions.gnome.org/extension/4356/top-bar-organizer/
+##### **Top Bar Organizer** - https://extensions.gnome.org/extension/4356/top-bar-organizer/
 
 
 ## 👾 Misc
 
-#### Starship https://starship.rs/
+##### Starship https://starship.rs/
 
-#### Wofi Theme - https://github.com/quantumfate/wofi  
+##### Wofi Theme - https://github.com/quantumfate/wofi  
   
-#### Browser Startpage/New Tab - https://gitlab.com/fazzi/startpage
+##### Browser Startpage/New Tab - https://gitlab.com/fazzi/startpage
   
-#### Chromium browser emojis - https://aur.archlinux.org/packages/noto-color-emoji-fontconfig
+##### Chromium browser emojis - https://aur.archlinux.org/packages/noto-color-emoji-fontconfig
 
-#### /etc/passwd to change shell if password issue
+##### /etc/passwd to change shell if password issue
 
-####  * IPV6 DHCP only
+#####  * IPV6 DHCP only
 
-#### Remove firewall-applet in /usr/bin/firewall-applet
+##### Remove firewall-applet in /usr/bin/firewall-applet
 
 ```
 #applet = TrayApplet()
