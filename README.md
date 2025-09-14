@@ -5,7 +5,7 @@
    
 ### 🎨 Marble Shell
 ##### https://github.com/imarkoff/Marble-shell-theme
-##### set hue from 0 - 350    
+##### set hue from 0 - 360    
 ```
 git clone https://github.com/imarkoff/Marble-shell-theme.git
 cd Marble-shell-theme
