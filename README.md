@@ -20,17 +20,15 @@ sudo python install.py --gdm --blue --filled --gdm-image PATHTOIMAGE --gdm-blur=
 <img width="846" height="611" alt="Screenshot From 2025-09-14 14-32-32" src="https://github.com/user-attachments/assets/76210592-5e1f-4136-a2f4-beef15c20eb4" />
 
 
-### 🔌 Extensions
+### 🔌 Extensions - gnome-browser-connector + browser extension required
 
 ##### **User Themes** - https://extensions.gnome.org/extension/19/user-themes/
 
 ##### **Dash to Dock** - https://extensions.gnome.org/extension/307/dash-to-dock/
 
-##### **Brightness Control Tray** - https://extensions.gnome.org/extension/2645/brightness-control-using-ddcutil/  ``` (GNOME 49 should have this) ``` 
+##### **Brightness Control Tray** - https://extensions.gnome.org/extension/2645/brightness-control-using-ddcutil/  ``` (GNOME 49 added) ``` 
 
-##### **AppIndicator Support - tray icons** - https://extensions.gnome.org/extension/615/appindicator-support/ 
-
-##### **Top Bar Organizer** - https://extensions.gnome.org/extension/4356/top-bar-organizer/
+##### **Status Icons** - https://extensions.gnome.org/extension/7332/status-icons/
 
 
 ### 👾 Misc
