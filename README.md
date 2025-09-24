@@ -2,20 +2,7 @@
 
 
 
-   
-### 🎨 Marble Shell
-##### https://github.com/imarkoff/Marble-shell-theme
-##### set hue from 0 - 360    
-```
-git clone https://github.com/imarkoff/Marble-shell-theme.git
-cd Marble-shell-theme
-python install.py -ri -a --filled --launchpad -Pnp --opaque --hue 155 --sat 250
-```
-##### gdm edit
-```
-python install.py --gdm --blue --filled --gdm-image PATHTOIMAGE --gdm-blur=40 --gdm-darken=30
-```
-<img width="1535" height="864" alt="489324111-8b49eafc-67eb-44aa-986e-d4cbdb46fd99(1)" src="https://github.com/user-attachments/assets/f6d9c15a-2788-461c-9bb9-4080553373c3" />
+<img width="1535" height="864" alt="Screenshot From 2025-09-23 23-31-08" src="https://github.com/user-attachments/assets/0c190adf-0712-411c-858d-bb7e12bd8222" />
 
 <img width="846" height="611" alt="Screenshot From 2025-09-14 14-32-32" src="https://github.com/user-attachments/assets/76210592-5e1f-4136-a2f4-beef15c20eb4" />
 
@@ -33,6 +20,13 @@ python install.py --gdm --blue --filled --gdm-image PATHTOIMAGE --gdm-blur=40 --
 
 ### 👾 Misc
 
+##### 🎨 Marble Shell https://github.com/imarkoff/Marble-shell-theme
+ 
+```
+git clone https://github.com/imarkoff/Marble-shell-theme.git
+cd Marble-shell-theme
+python install.py -ri -a --filled --launchpad -Pnp --opaque --hue 155 --sat 250
+```
 ##### Firefox Theme https://addons.mozilla.org/en-US/firefox/addon/pixel-storm-in-green-and-pink/
 
 ##### Starship https://starship.rs/
