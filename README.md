@@ -1,11 +1,6 @@
 # 2025 GNOME
 
-
-
-<img width="1535" height="864" alt="Screenshot From 2025-09-23 23-31-08" src="https://github.com/user-attachments/assets/0c190adf-0712-411c-858d-bb7e12bd8222" />
-
 <img width="846" height="611" alt="Screenshot From 2025-09-23 23-31-50" src="https://github.com/user-attachments/assets/977137f0-d61c-405e-8dbf-69c6cff7bf55" />
-
 
 ### 🔌 Extensions
 #### gnome-browser-connector + browser extension required
