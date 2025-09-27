@@ -1,4 +1,4 @@
-# 2025 GNOME
+# 2025 GNOME sucks
 
 <img width="846" height="611" alt="Screenshot From 2025-09-23 23-31-50" src="https://github.com/user-attachments/assets/977137f0-d61c-405e-8dbf-69c6cff7bf55" />
 
